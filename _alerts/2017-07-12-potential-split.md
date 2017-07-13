@@ -27,16 +27,16 @@ aforementioned groups of people - software that is scheduled to go live toward
 the end of July.
 
 The Bitcoin block chain, which is a record of all Bitcoin transactions to date,
-relies on a network of thousands of Bitcoin nodes running Bitcoin software that
-help propagate transactions. On {{start}}, the Bitcoin block chain may experience
-what is known as a chain split. This is when a portion of Bitcoin's nodes
-run software that another portion of nodes are not fully compatible with. As a
-result, some nodes may propagate confirmed transactions that other nodes may
-not accept or recognize due to alternative software. This may result in
-unreliable [confirmation scoring][] for an unknown length of time.  This means
-that any bitcoins you receive during this period could disappear from your
-wallet or be a type of bitcoin that other people will not accept as payment,
-until the situation is resolved.
+relies on a network of thousands of Bitcoin nodes running Bitcoin software. On
+{{start}}, the Bitcoin block chain may experience what is known as a chain
+split. This is when a portion of Bitcoin's nodes run software that another
+portion of nodes are not fully compatible with. As a result, some nodes may
+propagate confirmed transactions that other nodes may not accept or recognize
+due to alternative software. This may result in unreliable [confirmation
+scoring][] for an unknown length of time.  This means that any bitcoins you
+receive during this period could disappear from your wallet or be a type of
+bitcoin that other people will not accept as payment, until the situation is
+resolved.
 
 Once the situation is resolved, confirmation scoring will either automatically
 return to their normal reliability or there will be two (or more) competing
