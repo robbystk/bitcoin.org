@@ -12,20 +12,39 @@ bannerclass: "warning"
 ---
 {% assign start='<span class="date">2017/08/01 00:00 UTC</span>' %}
 
-*Last updated: <span class="date">2017/07/12 12:00 UTC</span>.  This
+*Last updated: <span class="date">2017/07/13 11:21 UTC</span>.  This
 page will be updated when new information becomes available.  See the
 [list of updates][].*
 
-On {{start}}, Bitcoin [confirmation scores][] may become unreliable for
-an unknown length of time.  This means that any bitcoins you receive
-after that time may later disappear from your wallet or be a
-type of bitcoin that other people will not accept as payment.
+## Chain split
 
-Once the situation is resolved, confirmation scores will either
-automatically return to their normal reliability or there will be two
-(or more) competing versions of Bitcoin.  In the former case, you may
-return to using Bitcoin normally; in the later case, you will need to
-take extra steps in order to begin safely receiving bitcoins again.
+Since Bitcoin's inception, the predominant software that has been used across
+the network has been a program called Bitcoin Core. During this time, Bitcoin has
+grown immensely. The network has facilitated billions of transactions for
+millions of users. As a result, different groups of people (developers,
+investors, entrepreneurs, etc.), have debated on the best ways Bitcoin can be
+optimized to allow it to exponentially scale to even more users and
+transactions. In recent months alternative software has been released that
+represent some of the interests of the aforementioned groups of people - software
+that is scheduled to go live toward the end of July.
+
+The Bitcoin block chain, which is a record of all Bitcoin transactions to date,
+relies on a network of thousands of Bitcoin nodes running Bitcoin software that
+help propagate transactions. On {{start}}, the Bitcoin block chain may experience
+what is known as a chain split. This is when a portion of Bitcoin's nodes
+run software that another portion of nodes are not fully compatible with. As a
+result, some nodes may propagate confirmed transactions that other nodes may
+not accept or recognize due to alternative software. This may result in
+unreliable [confirmation scoring][] for an unknown length of time.  This means
+that any bitcoins you receive during this period could disappear from your
+wallet or be a type of bitcoin that other people will not accept as payment,
+until the situation is resolved.
+
+Once the situation is resolved, confirmation scoring will either automatically
+return to their normal reliability or there will be two (or more) competing
+versions of Bitcoin as a result of a split block chain.  In the former case, you
+may return to using Bitcoin normally; in the later case, you will need to take
+extra steps in order to begin safely receiving bitcoins again.
 
 This post currently describes what actions you can take to prepare for
 this situation.  Subsequent to {{start}}, we will update this post as
