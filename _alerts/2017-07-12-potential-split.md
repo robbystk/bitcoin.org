@@ -16,7 +16,7 @@ bannerclass: "warning"
 page will be updated when new information becomes available.  See the
 [list of updates][].*
 
-At {{start}}, Bitcoin [confirmation scores][] may become unreliable for
+On {{start}}, Bitcoin [confirmation scores][] may become unreliable for
 an unknown length of time.  This means that any bitcoins you receive
 after that time may later disappear from your wallet or be a
 type of bitcoin that other people will not accept as payment.
@@ -92,6 +92,7 @@ A [full history][] of this document is available.  The following points
 summarize major changes, with the most recent changes being listed
 first.
 
+- <span class="date">2017/07/13 11:21 UTC</span>: add general info about split.
 - <span class="date">2017/07/12 12:00 UTC</span>: initial version.
 
 [full history]: https://github.com/bitcoin-dot-org/bitcoin.org/commits/master/_alerts/2017-07-12-potential-split.md
