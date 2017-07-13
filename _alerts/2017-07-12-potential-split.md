@@ -118,7 +118,7 @@ first.
 [list of updates]: #document-history
 [news sites]: /en/resources#news
 [community resources]: /en/community
-[confirmation scores]: /en/you-need-to-know#instant
+[confirmation scoring]: /en/you-need-to-know#instant
 [price volatility]: /en/you-need-to-know#volatile
 
 <script src="/js/jquery/jquery-1.11.2.min.js"></script>
