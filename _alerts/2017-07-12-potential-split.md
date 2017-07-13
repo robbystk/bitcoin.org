@@ -18,15 +18,13 @@ page will be updated when new information becomes available.  See the
 
 ## Chain split
 
-Since Bitcoin's inception, the predominant software that has been used across
-the network has been a program called Bitcoin Core. During this time, Bitcoin
-has grown immensely. The network has facilitated hundreds of millions of
+Since Bitcoin's inception, its  network has facilitated hundreds of millions of
 transactions. As a result, different groups of people (developers, investors,
 entrepreneurs, etc.), have debated on the best ways Bitcoin can be optimized to
-allow it to exponentially scale to even more users and transactions. In recent
-months alternative software has been released that represent some of the
-interests of the aforementioned groups of people - software that is scheduled to
-go live toward the end of July.
+allow it to exponentially scale to even further. In recent months alternative
+software has been released that represent some of the interests of the
+aforementioned groups of people - software that is scheduled to go live toward
+the end of July.
 
 The Bitcoin block chain, which is a record of all Bitcoin transactions to date,
 relies on a network of thousands of Bitcoin nodes running Bitcoin software that
